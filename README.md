@@ -13,7 +13,7 @@ Installation
 
 Projekt klonen: Klonen Sie das ToDo-Liste-Projektrepository auf Ihren lokalen Computer.
 
-git clone https://github.com/dein-benutzername/todo-list.git
+git clone https://github.com/t0ritto/Docker-TO-DO-M347.git
 Öffnen in Visual Studio Code: Öffnen Sie das geklonte Repository in Visual Studio Code.
 
 Starten des Dev-Containers: Öffnen Sie das Projekt in einem Dev-Container, um eine konsistente Entwicklungsumgebung zu gewährleisten.
